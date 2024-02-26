@@ -2,7 +2,7 @@
 
 👨‍💻 I’m a Data Scientist, currently working in the wealth management industry. <br/>
 🏫 Pursued my B.Tech in Data Science from NMIMS University, Mumbai. <br/>
-💸 On the path to become a Chartered Financial Analyst (CFA), to bridge the gap between data science and finance for a holistic understanding.<br/>
+💸 On the path to become a Chartered Financial Analyst (CFA&reg;), to bridge the gap between data science and finance for a holistic understanding.<br/>
 💭 Passionate about collaborating on on FinTech Projects to enhance my skillset and gain valuable experience.<br/>
 🗣️ A stock market enthusiast and investor, and am always open for discussions on it.<br/>
 🏡 Exploring ESG principles to contribute to sustainable work practises and a healthier environment.<br/>
