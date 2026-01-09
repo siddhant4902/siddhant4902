@@ -1,9 +1,7 @@
 # Hola, This is Siddhant!👋
 
-👨‍💻 I’m a Data Scientist, currently working in the wealth management industry. <br/>
+👨‍💻 I’m a Data Scientist, currently working in the Indian Pharma industry. <br/>
 🏫 Pursued my B.Tech in CSE (Data Science) from NMIMS University, Mumbai. <br/>
-💸 On the path to become a Chartered Financial Analyst [CFA&reg;](https://www.cfainstitute.org/en/programs/cfa).<br/>
-💭 Passionate about collaborating on on FinTech Projects.<br/>
 🗣️ A stock market enthusiast and investor, and always open for discussions on it.<br/>
 🏡 Exploring ESG principles to contribute to sustainable work practises and a healthier environment.<br/>
 
